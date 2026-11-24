@@ -1,0 +1,10 @@
+# Ignore all files and directories
+/*
+
+# Track selected directories
+!/.gitignore
+!/scripts/
+!/log/
+
+# Ignore macOS system files
+.DS_Store
